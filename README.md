@@ -2,7 +2,6 @@
 
 A fully responsive and feature-rich Spotify-like web application, built using **JavaScript**, **HTML**, and **CSS**. This project showcases a sleek user interface and functional music player capabilities.  
 
----
 
 ## 🚀 Features  
 
@@ -12,7 +11,7 @@ A fully responsive and feature-rich Spotify-like web application, built using **
 - 🎨 **Responsive Design**: Optimized for desktop, tablet, and mobile screens.  
 - 🌟 **Dynamic UI**: Interactive animations and effects for an immersive experience.  
 
----
+
 
 ## 🛠️ Technologies Used  
 
@@ -20,5 +19,5 @@ A fully responsive and feature-rich Spotify-like web application, built using **
 - **HTML** (34.8%)  
 - **CSS** (11.0%)  
 
----
+
 
